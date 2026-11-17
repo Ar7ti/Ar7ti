@@ -102,6 +102,7 @@ I'm a **software developer and game creator** from Finland. I build games, web p
       <img src="https://img.shields.io/badge/Networking-7F5AF0?style=flat-square" />
       <br/><br/>
       <a href="https://www.roblox.com/games/86140743290043/Sky-Island-Tower-Defense"><img src="https://img.shields.io/badge/▶_Play_on_Roblox-2CB67D?style=for-the-badge&logo=roblox&logoColor=white&labelColor=0D1117" /></a>
+      <a href="https://github.com/Ar7ti/sky-island-td-showcase"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🧭 <a href="https://ar7ti.github.io/life-simulator-demo/">Life Simulator</a></h3>
