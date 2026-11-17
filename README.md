@@ -50,6 +50,14 @@
         <a href="https://noise-radar.srv2159172.hstgr.cloud/">
           <img src="https://img.shields.io/badge/▶_Try_Shill_or_Chill-live_demo-2CB67D?style=for-the-badge&labelColor=0D1117" />
         </a>
+        <a href="https://github.com/JustinasLa/gemini-4-braincells">
+          <img src="https://img.shields.io/badge/Source_code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        👤 <b>My part:</b> the coordination detector — statistical null model, organic-behaviour guards,
+        Gemini-embedding duplicate detection and red-team fixes (signals v1 → v1.10) — plus the
+        Bluesky Jetstream → Postgres ingest and evaluation against Bluesky moderation takedowns.
       </p>
       <p align="center"><sub>Team <b>Gemini 4 Brain Cells</b>: Justinas Launikonis · Kirill Jegosin · Temuulen Norovpel · Valtteri Pertilä</sub></p>
     </td>
@@ -87,6 +95,7 @@ I'm a **software developer and game creator** from Finland. I build games, web p
       <h3>🏰 <a href="https://www.roblox.com/games/86140743290043/Sky-Island-Tower-Defense">Sky Island Tower Defense</a></h3>
       <p><b>Live on Roblox.</b> Built and maintained over four months: game UI in React, player data systems
       and a safe, responsive multiplayer experience.</p>
+      <p>👤 <b>My part:</b> solo project — game design, Luau code, React UI, server systems and automated Studio playtests (180 commits since May 2026).</p>
       <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" />
       <img src="https://img.shields.io/badge/Lua-00A2FF?style=flat-square&logo=lua&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -95,14 +104,19 @@ I'm a **software developer and game creator** from Finland. I build games, web p
       <a href="https://www.roblox.com/games/86140743290043/Sky-Island-Tower-Defense"><img src="https://img.shields.io/badge/▶_Play_on_Roblox-2CB67D?style=for-the-badge&logo=roblox&logoColor=white&labelColor=0D1117" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧭 Life Simulator</h3>
-      <p><b>AI life copilot for the moments that matter</b> — changing schools, moving, choosing a career or starting
-      something new. Explore different paths and see where each decision could lead.</p>
-      <img src="https://img.shields.io/badge/AI-7F5AF0?style=flat-square" />
+      <h3>🧭 <a href="https://ar7ti.github.io/life-simulator-demo/">Life Simulator</a></h3>
+      <p><b>AI life copilot for the moments that matter</b> — moving, buying a first car, furnishing a home, planning
+      a trip. Turns a plain-language goal into a workspace with a budget, tasks, research and risks.
+      Built for the If Insurance challenge at JunctionX Turku.</p>
+      <p>👤 <b>My part:</b> wrote the code — AI planning backend (Fastify + OpenAI), source-grounded shopping research,
+      React frontend and deployment; covered by 347 backend and 56 browser tests.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/🛠️_Currently_building-FFB020?style=for-the-badge&labelColor=0D1117" />
+      <a href="https://ar7ti.github.io/life-simulator-demo/"><img src="https://img.shields.io/badge/▶_Live_demo-2CB67D?style=for-the-badge&labelColor=0D1117" /></a>
     </td>
   </tr>
   <tr>
@@ -111,6 +125,7 @@ I'm a **software developer and game creator** from Finland. I build games, web p
       <p><b>Hackathon project</b> for the A’Pelago / Redstone challenge. An evidence-led workspace that helps fund and
       accelerator analysts decide the next justified move for blue-economy startups — AI with guardrails, every
       claim backed by a source.</p>
+      <p>👤 <b>My part:</b> solo submission — product idea, UI, and the AI layer (OpenAI Responses API with strict schemas and exact-quote checks).</p>
       <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
