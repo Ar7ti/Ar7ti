@@ -67,7 +67,7 @@ I'm a **software developer and game creator** from Finland. I build games, web p
 - 🏆 **Two wins at Junction 2026** with *Shill or Chill*: 🥇 Oxylabs challenge and 🥉 3rd place in the Hostinger main challenge
 - ⚡ Hackathons: **Junction 2026** (Espoo) · **Junction X Vaasa** · **Junction X Turku**
 - 🧭 Currently building **Life Simulator**, an AI life copilot
-- 🎮 My **Tower Defense** game is **live on Roblox**
+- 🎮 My game [**Sky Island Tower Defense**](https://www.roblox.com/games/86140743290043/Sky-Island-Tower-Defense) is **live on Roblox**
 - 🎬 Creating **content** about what I build
 
 ---
@@ -87,7 +87,7 @@ I'm a **software developer and game creator** from Finland. I build games, web p
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏰 <a href="https://www.roblox.com/games/92081197101210/Tower-Defends">Tower Defense</a></h3>
+      <h3>🏰 <a href="https://www.roblox.com/games/86140743290043/Sky-Island-Tower-Defense">Sky Island Tower Defense</a></h3>
       <p><b>Live on Roblox.</b> Built and maintained over four months: game UI in React, player data systems
       and a safe, responsive multiplayer experience.</p>
       <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" />
@@ -95,7 +95,7 @@ I'm a **software developer and game creator** from Finland. I build games, web p
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Networking-7F5AF0?style=flat-square" />
       <br/><br/>
-      <a href="https://www.roblox.com/games/92081197101210/Tower-Defends"><img src="https://img.shields.io/badge/▶_Play_on_Roblox-2CB67D?style=for-the-badge&logo=roblox&logoColor=white&labelColor=0D1117" /></a>
+      <a href="https://www.roblox.com/games/86140743290043/Sky-Island-Tower-Defense"><img src="https://img.shields.io/badge/▶_Play_on_Roblox-2CB67D?style=for-the-badge&logo=roblox&logoColor=white&labelColor=0D1117" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🧭 Life Simulator</h3>
