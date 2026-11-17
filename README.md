@@ -1,4 +1,4 @@
-<!-- Header -->
+<!-- Profile README for github.com/Ar7ti -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00B4D8&height=200&section=header&text=Hey,%20I'm%20Kirill%20👋&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Developer%20·%20Hackathon%20Winner%20·%20Content%20Creator&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
