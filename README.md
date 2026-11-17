@@ -1,11 +1,11 @@
 <!-- Profile README for github.com/Ar7ti -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00B4D8&height=200&section=header&text=Hey,%20I'm%20Kirill%20👋&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Developer%20·%20Hackathon%20Winner%20·%20Content%20Creator&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00B4D8&height=200&section=header&text=Hey,%20I'm%20Kirill%20👋&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20·%20Game%20Creator&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
-  <a href="https://noise-radar.srv2159172.hstgr.cloud/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2CB67D&center=true&vCenter=true&width=640&lines=%F0%9F%8F%86+Two+wins+at+Junction+2026;%F0%9F%A5%87+Oxylabs+challenge+winner;%F0%9F%A5%89+3rd+place+%E2%80%94+Hostinger+main+challenge;Building+AI+agents+that+work+with+live+web+data;TypeScript+%E2%80%A2+React+%E2%80%A2+Luau;From+idea+to+shipped+product+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://home.kirills-portfolio.workers.dev/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2CB67D&center=true&vCenter=true&width=640&lines=Building+games%2C+web+products+and+AI+tools;Sky+Island+Tower+Defense+%E2%80%94+live+on+Roblox;AI+agents+that+work+with+live+web+data;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Luau" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🏆 Two wins at Junction 2026 — Shill or Chill
+## ⭐ Featured — Shill or Chill
 
 <table>
   <tr>
@@ -42,8 +42,6 @@
         The agent works with fresh web data from the <b>Oxylabs Web API</b> and backs every answer with evidence.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/🥇_Winner-Oxylabs_challenge-FFD700?style=flat-square&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/🥉_3rd_place-Hostinger_challenge-CD7F32?style=flat-square&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/AI-Agent-7F5AF0?style=flat-square" />
         <img src="https://img.shields.io/badge/Oxylabs-Web_API-2CB67D?style=flat-square" />
         <img src="https://img.shields.io/badge/Team-4_people-00B4D8?style=flat-square" />
@@ -64,8 +62,7 @@
 
 I'm a **software developer and game creator** from Finland. I build games, web products and AI tools — things people want to use.
 
-- 🏆 **Two wins at Junction 2026** with *Shill or Chill*: 🥇 Oxylabs challenge and 🥉 3rd place in the Hostinger main challenge
-- ⚡ Hackathons: **Junction 2026** (Espoo) · **Junction X Vaasa** · **Junction X Turku**
+- ⚡ Hackathons: **Junction 2026** (🥇 Oxylabs, 🥉 Hostinger) · **Junction X Vaasa** · **Junction X Turku**
 - 🧭 Currently building **Life Simulator**, an AI life copilot
 - 🎮 My game [**Sky Island Tower Defense**](https://www.roblox.com/games/86140743290043/Sky-Island-Tower-Defense) is **live on Roblox**
 - 🎬 Creating **content** about what I build
