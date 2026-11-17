@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://home.kirills-portfolio.workers.dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2CB67D&center=true&vCenter=true&width=640&lines=Building+games%2C+web+products+and+AI+tools;Sky+Island+Tower+Defense+%E2%80%94+live+on+Roblox;AI+agents+that+work+with+live+web+data;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Luau" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2CB67D&center=true&vCenter=true&width=640&lines=I+build+worlds+people+want+to+explore;Games%2C+web+apps+and+AI+tools;My+Roblox+game+is+live+%F0%9F%8E%AE;TypeScript+%E2%80%A2+React+%E2%80%A2+Luau" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,138 +24,121 @@
 
 ---
 
-## ⭐ Featured — Shill or Chill
+## 👋 About me
+
+Hi! I'm Kirill, I'm 18 and I live in Finland. I like building stuff with code: games, web apps and AI tools.
+
+- 🎮 My Roblox game [Sky Island Tower Defense](https://www.roblox.com/games/86140743290043/Sky-Island-Tower-Defense) is live, I've been working on it for months
+- 🏆 At Junction 2026 our team won the Oxylabs challenge and took 3rd place in the Hostinger challenge
+- ⚡ Before that I was at Junction X Vaasa and Junction X Turku
+- 🧭 Right now I'm working on Life Simulator
+
+---
+
+## ⭐ Shill or Chill
 
 <table>
   <tr>
     <td>
       <h3 align="center">🕵️ <a href="https://noise-radar.srv2159172.hstgr.cloud/">Shill or Chill</a></h3>
+      <p align="center">🥇 Oxylabs challenge winner &nbsp;·&nbsp; 🥉 3rd place in the Hostinger challenge</p>
       <p align="center">
-        🥇 <b>Winner — Oxylabs challenge</b> &nbsp;·&nbsp; 🥉 <b>3rd place — Hostinger main challenge</b>
+        Our project from Junction 2026 in Espoo. You paste a post or a meme, and it traces it back to where it
+        first appeared<br/>and helps you see if its spread looks organic or coordinated.
       </p>
       <p align="center">
-        <b>Paste any post or meme — our agent traces it back to its earliest copy<br/>
-        and shows whether its spread was <i>organic</i> or <i>coordinated</i>.</b>
+        We built it in one weekend, with a team I met on Discord. It was really cool 🔥
       </p>
       <p align="center">
-        Built in one weekend in Espoo, where <b>2,000+ builders</b> competed at Junction.<br/>
-        The agent works with fresh web data from the <b>Oxylabs Web API</b> and backs every answer with evidence.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI-Agent-7F5AF0?style=flat-square" />
-        <img src="https://img.shields.io/badge/Oxylabs-Web_API-2CB67D?style=flat-square" />
-        <img src="https://img.shields.io/badge/Team-4_people-00B4D8?style=flat-square" />
+        <b>What I did:</b> I worked on the part that decides if a spread is coordinated (the "signals" detector),
+        the pipeline that pulls posts from Bluesky into our database, and testing it against real Bluesky takedowns.
       </p>
       <p align="center">
         <a href="https://noise-radar.srv2159172.hstgr.cloud/">
-          <img src="https://img.shields.io/badge/▶_Try_Shill_or_Chill-live_demo-2CB67D?style=for-the-badge&labelColor=0D1117" />
+          <img src="https://img.shields.io/badge/▶_Try_it-2CB67D?style=for-the-badge&labelColor=0D1117" />
         </a>
         <a href="https://github.com/JustinasLa/gemini-4-braincells">
-          <img src="https://img.shields.io/badge/Source_code-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">
-        👤 <b>My part:</b> the coordination detector — statistical null model, organic-behaviour guards,
-        Gemini-embedding duplicate detection and red-team fixes (signals v1 → v1.10) — plus the
-        Bluesky Jetstream → Postgres ingest and evaluation against Bluesky moderation takedowns.
-      </p>
-      <p align="center"><sub>Team <b>Gemini 4 Brain Cells</b>: Justinas Launikonis · Kirill Jegosin · Temuulen Norovpel · Valtteri Pertilä</sub></p>
+      <p align="center"><sub>Team Gemini 4 Brain Cells: Justinas Launikonis · Kirill Jegosin · Temuulen Norovpel · Valtteri Pertilä ❤️</sub></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧑‍💻 About me
-
-I'm a **software developer and game creator** from Finland. I build games, web products and AI tools — things people want to use.
-
-- ⚡ Hackathons: **Junction 2026** (🥇 Oxylabs, 🥉 Hostinger) · **Junction X Vaasa** · **Junction X Turku**
-- 🧭 Currently building **Life Simulator**, an AI life copilot
-- 🎮 My game [**Sky Island Tower Defense**](https://www.roblox.com/games/86140743290043/Sky-Island-Tower-Defense) is **live on Roblox**
-- 🎬 Creating **content** about what I build
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind,python,lua&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,vercel,cloudflare&theme=dark" />
-</p>
-
----
-
-## 🚀 More Projects
+## 🚀 My projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏰 <a href="https://www.roblox.com/games/86140743290043/Sky-Island-Tower-Defense">Sky Island Tower Defense</a></h3>
-      <p><b>Live on Roblox.</b> Built and maintained over four months: game UI in React, player data systems
-      and a safe, responsive multiplayer experience.</p>
-      <p>👤 <b>My part:</b> solo project — game design, Luau code, React UI, server systems and automated Studio playtests (180 commits since May 2026).</p>
+      <p>A co-op tower defense game on Roblox. You team up with up to 4 friends and hold off 15 waves, with elites and a boss at the end.</p>
+      <p><b>What I did:</b> everything, it's my solo project. Game design, all the Luau code, the UI in React and the server stuff.
+      I also wrote scripts that run playtests in Roblox Studio for me.</p>
       <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" />
-      <img src="https://img.shields.io/badge/Lua-00A2FF?style=flat-square&logo=lua&logoColor=white" />
+      <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Networking-7F5AF0?style=flat-square" />
       <br/><br/>
       <a href="https://www.roblox.com/games/86140743290043/Sky-Island-Tower-Defense"><img src="https://img.shields.io/badge/▶_Play_on_Roblox-2CB67D?style=for-the-badge&logo=roblox&logoColor=white&labelColor=0D1117" /></a>
       <a href="https://github.com/Ar7ti/sky-island-td-showcase"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🧭 <a href="https://ar7ti.github.io/life-simulator-demo/">Life Simulator</a></h3>
-      <p><b>AI life copilot for the moments that matter</b> — moving, buying a first car, furnishing a home, planning
-      a trip. Turns a plain-language goal into a workspace with a budget, tasks, research and risks.
-      Built for the If Insurance challenge at JunctionX Turku.</p>
-      <p>👤 <b>My part:</b> wrote the code — AI planning backend (Fastify + OpenAI), source-grounded shopping research,
-      React frontend and deployment; covered by 347 backend and 56 browser tests.</p>
+      <p>An AI helper for big life moments, like moving, buying your first car or planning a trip.
+      You tell it what you're planning and it makes a plan with a budget and tasks. I made it for the If Insurance challenge at Junction X Turku.</p>
+      <p><b>What I did:</b> I wrote the code, the backend with AI, the frontend and a lot of tests.</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
       <br/><br/>
-      <a href="https://ar7ti.github.io/life-simulator-demo/"><img src="https://img.shields.io/badge/▶_Live_demo-2CB67D?style=for-the-badge&labelColor=0D1117" /></a>
+      <a href="https://ar7ti.github.io/life-simulator-demo/"><img src="https://img.shields.io/badge/▶_Try_the_demo-2CB67D?style=for-the-badge&labelColor=0D1117" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌊 <a href="https://ocean-opportunity-radar.kirills-portfolio.workers.dev/">Ocean Opportunity Radar</a></h3>
-      <p><b>Hackathon project</b> for the A’Pelago / Redstone challenge. An evidence-led workspace that helps fund and
-      accelerator analysts decide the next justified move for blue-economy startups — AI with guardrails, every
-      claim backed by a source.</p>
-      <p>👤 <b>My part:</b> solo submission — product idea, UI, and the AI layer (OpenAI Responses API with strict schemas and exact-quote checks).</p>
-      <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square" />
+      <p>A hackathon project for the A’Pelago / Redstone challenge. It helps people at funds and accelerators
+      figure out what to do next with ocean startups, and every answer has a source you can check.</p>
+      <p><b>What I did:</b> I made it solo.</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
       <br/><br/>
-      <a href="https://ocean-opportunity-radar.kirills-portfolio.workers.dev/"><img src="https://img.shields.io/badge/▶_Live_demo-2CB67D?style=for-the-badge&labelColor=0D1117" /></a>
+      <a href="https://ocean-opportunity-radar.kirills-portfolio.workers.dev/"><img src="https://img.shields.io/badge/▶_Try_it-2CB67D?style=for-the-badge&labelColor=0D1117" /></a>
       <a href="https://github.com/Ar7ti/Ocean-Opportunity-Radar"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://guardioo.netlify.app/#/home">Guardio</a></h3>
-      <p><b>Junction X Vaasa hackathon.</b> A family-safety prototype: kids learn to spot everyday risks through short
-      games, parents turn prevention into two-minute actions — with an insurance model that rewards prevention.</p>
+      <p>Our team project from Junction X Vaasa. Kids learn about everyday risks at home through small games,
+      and parents get quick safety checks they can do in two minutes.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML_/_CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
       <br/><br/>
-      <a href="https://guardioo.netlify.app/#/home"><img src="https://img.shields.io/badge/▶_Try_prototype-2CB67D?style=for-the-badge&labelColor=0D1117" /></a>
+      <a href="https://guardioo.netlify.app/#/home"><img src="https://img.shields.io/badge/▶_Try_it-2CB67D?style=for-the-badge&labelColor=0D1117" /></a>
       <a href="https://github.com/Ar7ti/Junction-Hackaton"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://home.kirills-portfolio.workers.dev/"><img src="https://img.shields.io/badge/🚀_See_all_projects_on_my_portfolio-7F5AF0?style=for-the-badge" /></a>
+  <a href="https://home.kirills-portfolio.workers.dev/"><img src="https://img.shields.io/badge/More_on_my_portfolio_👇-7F5AF0?style=for-the-badge" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ What I use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,python,lua&theme=dark" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,cloudflare&theme=dark" />
+</p>
+
+---
+
+## 📊 Stats
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ar7ti&theme=tokyonight" />
@@ -172,8 +155,6 @@ I'm a **software developer and game creator** from Finland. I build games, web p
 
 ---
 
-## 🐍 Contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ar7ti/Ar7ti/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ar7ti/Ar7ti/output/github-snake.svg" />
@@ -183,7 +164,8 @@ I'm a **software developer and game creator** from Finland. I build games, web p
 ---
 
 <p align="center">
-  <i>“Ship it, test it, make it better.”</i>
+  Feel free to try my projects and tell me what you think 👇<br/>
+  <a href="https://www.linkedin.com/in/kirill-jegosin-807199412/">LinkedIn</a> · <a href="https://t.me/krnl_159">Telegram</a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:2CB67D,100:7F5AF0&height=120&section=footer" width="100%" />
