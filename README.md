@@ -15,7 +15,9 @@
 </p>
 
 <p align="center">
+  <a href="https://home.kirills-portfolio.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-kirills--portfolio-7F5AF0?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0D1117" /></a>
   <a href="https://www.linkedin.com/in/kirill-jegosin-807199412/"><img src="https://img.shields.io/badge/LinkedIn-Kirill_Jegosin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://t.me/krnl_159"><img src="https://img.shields.io/badge/Telegram-krnl__159-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" /></a>
   <img src="https://img.shields.io/badge/📍_Finland-0D1117?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=Ar7ti&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS" />
 </p>
@@ -60,12 +62,12 @@
 
 ## 🧑‍💻 About me
 
-I'm a **developer and content creator** from Finland. I like building things that ship — fast.
+I'm a **software developer and game creator** from Finland. I build games, web products and AI tools — things people want to use.
 
 - 🏆 **Two wins at Junction 2026** with *Shill or Chill*: 🥇 Oxylabs challenge and 🥉 3rd place in the Hostinger main challenge
 - ⚡ Hackathons: **Junction 2026** (Espoo) · **Junction X Vaasa** · **Junction X Turku**
-- 🌐 Building **TypeScript / React** web apps and AI agents
-- 🎮 Making **a co-op Tower Defense game on Roblox** in my spare time
+- 🧭 Currently building **Life Simulator**, an AI life copilot
+- 🎮 My **Tower Defense** game is **live on Roblox**
 - 🎬 Creating **content** about what I build
 
 ---
@@ -73,7 +75,7 @@ I'm a **developer and content creator** from Finland. I like building things tha
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind,python,lua&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind,python,lua&theme=dark" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,vercel,cloudflare&theme=dark" />
 </p>
@@ -84,25 +86,59 @@ I'm a **developer and content creator** from Finland. I like building things tha
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🌊 <a href="https://github.com/Ar7ti/Ocean-Opportunity-Radar">Ocean Opportunity Radar</a></h3>
-      <p>Evidence-led opportunity radar for ocean startups.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>🏰 Tower Defense</h3>
-      <p>Co-op tower defense on Roblox for up to 4 players, on desktop and mobile. 15 waves, elites and a boss.</p>
-      <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3>🏰 <a href="https://www.roblox.com/games/92081197101210/Tower-Defends">Tower Defense</a></h3>
+      <p><b>Live on Roblox.</b> Built and maintained over four months: game UI in React, player data systems
+      and a safe, responsive multiplayer experience.</p>
       <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" />
-      <img src="https://img.shields.io/badge/coming_soon-2CB67D?style=flat-square" />
+      <img src="https://img.shields.io/badge/Lua-00A2FF?style=flat-square&logo=lua&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Networking-7F5AF0?style=flat-square" />
+      <br/><br/>
+      <a href="https://www.roblox.com/games/92081197101210/Tower-Defends"><img src="https://img.shields.io/badge/▶_Play_on_Roblox-2CB67D?style=for-the-badge&logo=roblox&logoColor=white&labelColor=0D1117" /></a>
     </td>
-    <td width="33%" valign="top">
-      <h3>⚡ <a href="https://github.com/Ar7ti/Junction-Hackaton">Junction X Vaasa</a></h3>
-      <p>Our team project from the Junction X hackathon in Vaasa, Finland.</p>
+    <td width="50%" valign="top">
+      <h3>🧭 Life Simulator</h3>
+      <p><b>AI life copilot for the moments that matter</b> — changing schools, moving, choosing a career or starting
+      something new. Explore different paths and see where each decision could lead.</p>
+      <img src="https://img.shields.io/badge/AI-7F5AF0?style=flat-square" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🛠️_Currently_building-FFB020?style=for-the-badge&labelColor=0D1117" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌊 <a href="https://ocean-opportunity-radar.kirills-portfolio.workers.dev/">Ocean Opportunity Radar</a></h3>
+      <p><b>Hackathon project</b> for the A’Pelago / Redstone challenge. An evidence-led workspace that helps fund and
+      accelerator analysts decide the next justified move for blue-economy startups — AI with guardrails, every
+      claim backed by a source.</p>
+      <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+      <br/><br/>
+      <a href="https://ocean-opportunity-radar.kirills-portfolio.workers.dev/"><img src="https://img.shields.io/badge/▶_Live_demo-2CB67D?style=for-the-badge&labelColor=0D1117" /></a>
+      <a href="https://github.com/Ar7ti/Ocean-Opportunity-Radar"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://guardioo.netlify.app/#/home">Guardio</a></h3>
+      <p><b>Junction X Vaasa hackathon.</b> A family-safety prototype: kids learn to spot everyday risks through short
+      games, parents turn prevention into two-minute actions — with an insurance model that rewards prevention.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML_/_CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+      <br/><br/>
+      <a href="https://guardioo.netlify.app/#/home"><img src="https://img.shields.io/badge/▶_Try_prototype-2CB67D?style=for-the-badge&labelColor=0D1117" /></a>
+      <a href="https://github.com/Ar7ti/Junction-Hackaton"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://home.kirills-portfolio.workers.dev/"><img src="https://img.shields.io/badge/🚀_See_all_projects_on_my_portfolio-7F5AF0?style=for-the-badge" /></a>
+</p>
 
 ---
 
