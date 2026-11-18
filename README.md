@@ -75,8 +75,9 @@ Hi! I'm Kirill, I'm 18 and I live in Finland. I like building stuff with code: g
     <td width="50%" valign="top">
       <h3>🏰 <a href="https://www.roblox.com/games/86140743290043/Sky-Island-Tower-Defense">Sky Island Tower Defense</a></h3>
       <p>A co-op tower defense game on Roblox. You team up with up to 4 friends and hold off 15 waves, with elites and a boss at the end.</p>
-      <p><b>What I did:</b> everything, it's my solo project. Game design, all the Luau code, the UI in React and the server stuff.
-      I also wrote scripts that run playtests in Roblox Studio for me.</p>
+      <p><b>What I did:</b> everything, it's my solo project. Game design, all the Luau code and the UI in React-lua.
+      On the server I made the waves and the boss, how enemies walk the path, the checks for placing towers (the server decides, not the player),
+      the rewards and saving player data. I also wrote Python scripts that run playtests in Roblox Studio for me and check how it looks on phones.</p>
       <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" />
       <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -101,7 +102,8 @@ Hi! I'm Kirill, I'm 18 and I live in Finland. I like building stuff with code: g
       <h3>🌊 <a href="https://ocean-opportunity-radar.kirills-portfolio.workers.dev/">Ocean Opportunity Radar</a></h3>
       <p>A hackathon project for the A’Pelago / Redstone challenge. It helps people at funds and accelerators
       figure out what to do next with ocean startups, and every answer has a source you can check.</p>
-      <p><b>What I did:</b> I made it solo.</p>
+      <p><b>What I did:</b> I made it solo. The AI reads a pitch and pulls out claims with the exact quote, and it can research a startup online
+      with links to the sources. But it can never change a score by itself, a person has to check the proof first. I also wrote 36 tests for it.</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
