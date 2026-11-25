@@ -148,11 +148,11 @@ Hi! I'm Kirill, I'm 18 and I live in Finland. I like building stuff with code: g
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ar7ti&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=Ar7ti&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=1800&v=2" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ar7ti&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ar7ti&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&v=2" />
 </p>
 
 ---
